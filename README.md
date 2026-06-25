@@ -28,6 +28,7 @@ A curated list of Liquid Network resources, libraries, tools and applications. L
 - [Liquid.network](https://liquid.network/) - Mempool.space liquid network explorer
 - [electrs-liquid-umbrel](https://github.com/4rkad/electrs-liquid-umbrel)![stars](https://img.shields.io/github/stars/4rkad/electrs-liquid-umbrel.svg?style=social) - Electrum server for the Liquid Network — Umbrel community app
 - [Enciclopedia](https://github.com/lvaccaro/enciclopedia-rust) - Web-based asset information explorer for the Liquid Network
+- [lwk-rn](https://github.com/Blockstream/lwk-rn)![stars](https://img.shields.io/github/stars/Blockstream/lwk-rn.svg?style=social) - Lightning Network project (6★)
 
 ## Network 
 - [Liquid.net Statistics](https://liquid.net/) - Network statistics and monitoring dashboard  
@@ -91,6 +92,8 @@ A curated list of Liquid Network resources, libraries, tools and applications. L
 - [Liquid.beer Demo](https://liquid.beer/) - Demo assets and testing platform  
 - [Liquid Testnet Portal](https://liquidtestnet.com/) - Testnet development environment
 - [lt4](https://kitchen.anyone.eu.org/lt4/) - Unofficial liquid testnet based on testnet4 
+- [elements-miniscript](https://github.com/ElementsProject/elements-miniscript)![stars](https://img.shields.io/github/stars/ElementsProject/elements-miniscript.svg?style=social) - Lightning Network project (15★)
+- [elements-miniscript](https://github.com/ElementsProject/elements-miniscript)![stars](https://img.shields.io/github/stars/ElementsProject/elements-miniscript.svg?style=social) - Lightning Network project (15★)
 
 ## Wallets
 - [Marina](https://github.com/vulpemventures/marina) - Browser extension wallet
