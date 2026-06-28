@@ -93,7 +93,6 @@ A curated list of Liquid Network resources, libraries, tools and applications. L
 - [Liquid Testnet Portal](https://liquidtestnet.com/) - Testnet development environment
 - [lt4](https://kitchen.anyone.eu.org/lt4/) - Unofficial liquid testnet based on testnet4 
 - [elements-miniscript](https://github.com/ElementsProject/elements-miniscript)![stars](https://img.shields.io/github/stars/ElementsProject/elements-miniscript.svg?style=social) - Lightning Network project (15★)
-- [elements-miniscript](https://github.com/ElementsProject/elements-miniscript)![stars](https://img.shields.io/github/stars/ElementsProject/elements-miniscript.svg?style=social) - Lightning Network project (15★)
 
 ## Wallets
 - [Marina](https://github.com/vulpemventures/marina) - Browser extension wallet
