@@ -28,7 +28,6 @@ A curated list of Liquid Network resources, libraries, tools and applications. L
 - [Liquid.network](https://liquid.network/) - Mempool.space liquid network explorer
 - [electrs-liquid-umbrel](https://github.com/4rkad/electrs-liquid-umbrel)![stars](https://img.shields.io/github/stars/4rkad/electrs-liquid-umbrel.svg?style=social) - Electrum server for the Liquid Network — Umbrel community app
 - [Enciclopedia](https://github.com/lvaccaro/enciclopedia-rust) - Web-based asset information explorer for the Liquid Network
-- [lwk-rn](https://github.com/Blockstream/lwk-rn)![stars](https://img.shields.io/github/stars/Blockstream/lwk-rn.svg?style=social) - Lightning Network project (6★)
 
 ## Network 
 - [Liquid.net Statistics](https://liquid.net/) - Network statistics and monitoring dashboard  
@@ -84,15 +83,18 @@ A curated list of Liquid Network resources, libraries, tools and applications. L
 - [LWK](https://github.com/blockstream/lwk)![stars](https://img.shields.io/github/stars/blockstream/lwk.svg?style=social) - Rust libraries with bindings in Swift, Kotlin, Python, C#, Dart, React Native, WASM.
 - [Smplx](https://github.com/BlockstreamResearch/smplx)![stars](https://img.shields.io/github/stars/BlockstreamResearch/smplx.svg?style=social) - Fast, ux-first simplicity development framework in Rust 
 - [lwk-dart](https://github.com/SatoshiPortal/lwk-dart)![stars](https://img.shields.io/github/stars/SatoshiPortal/lwk-dart.svg?style=social) - Dart/Flutter bindings for Blockstream's Liquid Wallet Kit
+- [lwk-rn](https://github.com/Blockstream/lwk-rn)![stars](https://img.shields.io/github/stars/Blockstream/lwk-rn.svg?style=social) - react native lwk
 - [simplicity](https://github.com/hazbase/simplicity)![stars](https://img.shields.io/github/stars/hazbase/simplicity.svg?style=social) -Typescript SDK for Simplicity on Liquid by hazbase
 - [secp256k1-zkp](https://github.com/BlockstreamResearch/secp256k1-zkp)![stars](https://img.shields.io/github/stars/BlockstreamResearch/secp256k1-zkp.svg?style=social) - A fork of libsecp256k1 with support for advanced features such as Confidential Assets and MuSig2
+- [elements-miniscript](https://github.com/ElementsProject/elements-miniscript)![stars](https://img.shields.io/github/stars/ElementsProject/elements-miniscript.svg?style=social) - miniscript rust library for elements
+
 
 ### Testing Resources
 - [Testnet Faucet](https://faucet.vulpem.com) - Get testnet L-BTC, USDt, and LCAD  
 - [Liquid.beer Demo](https://liquid.beer/) - Demo assets and testing platform  
 - [Liquid Testnet Portal](https://liquidtestnet.com/) - Testnet development environment
 - [lt4](https://kitchen.anyone.eu.org/lt4/) - Unofficial liquid testnet based on testnet4 
-- [elements-miniscript](https://github.com/ElementsProject/elements-miniscript)![stars](https://img.shields.io/github/stars/ElementsProject/elements-miniscript.svg?style=social) - Lightning Network project (15★)
+
 
 ## Wallets
 - [Marina](https://github.com/vulpemventures/marina) - Browser extension wallet
