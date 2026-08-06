@@ -28,7 +28,6 @@ A curated list of Liquid Network resources, libraries, tools and applications. L
 - [Liquid.network](https://liquid.network/) - Mempool.space liquid network explorer
 - [electrs-liquid-umbrel](https://github.com/4rkad/electrs-liquid-umbrel)![stars](https://img.shields.io/github/stars/4rkad/electrs-liquid-umbrel.svg?style=social) - Electrum server for the Liquid Network — Umbrel community app
 - [Enciclopedia](https://github.com/lvaccaro/enciclopedia-rust) - Web-based asset information explorer for the Liquid Network
-- [esp32_bc-ur](https://github.com/Blockstream/esp32_bc-ur)![stars](https://img.shields.io/github/stars/Blockstream/esp32_bc-ur.svg?style=social) - UR reference library in C++
 
 ## Network 
 - [Liquid.net Statistics](https://liquid.net/) - Network statistics and monitoring dashboard  
@@ -86,6 +85,7 @@ A curated list of Liquid Network resources, libraries, tools and applications. L
 - [lwk-dart](https://github.com/SatoshiPortal/lwk-dart)![stars](https://img.shields.io/github/stars/SatoshiPortal/lwk-dart.svg?style=social) - Dart/Flutter bindings for Blockstream's Liquid Wallet Kit
 - [simplicity](https://github.com/hazbase/simplicity)![stars](https://img.shields.io/github/stars/hazbase/simplicity.svg?style=social) -Typescript SDK for Simplicity on Liquid by hazbase
 - [secp256k1-zkp](https://github.com/BlockstreamResearch/secp256k1-zkp)![stars](https://img.shields.io/github/stars/BlockstreamResearch/secp256k1-zkp.svg?style=social) - A fork of libsecp256k1 with support for advanced features such as Confidential Assets and MuSig2
+- [esp32_bc-ur](https://github.com/Blockstream/esp32_bc-ur)![stars](https://img.shields.io/github/stars/Blockstream/esp32_bc-ur.svg?style=social) - UR reference library in C++
 
 ### Testing Resources
 - [Testnet Faucet](https://faucet.vulpem.com) - Get testnet L-BTC, USDt, and LCAD  
