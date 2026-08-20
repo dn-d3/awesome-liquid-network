@@ -28,6 +28,7 @@ A curated list of Liquid Network resources, libraries, tools and applications. L
 - [Liquid.network](https://liquid.network/) - Mempool.space liquid network explorer
 - [electrs-liquid-umbrel](https://github.com/4rkad/electrs-liquid-umbrel)![stars](https://img.shields.io/github/stars/4rkad/electrs-liquid-umbrel.svg?style=social) - Electrum server for the Liquid Network — Umbrel community app
 - [Enciclopedia](https://github.com/lvaccaro/enciclopedia-rust) - Web-based asset information explorer for the Liquid Network
+- [asset_registry_v2](https://github.com/Blockstream/asset_registry_v2)![stars](https://img.shields.io/github/stars/Blockstream/asset_registry_v2.svg?style=social) - Asset Registry v2
 
 ## Network 
 - [Liquid.net Statistics](https://liquid.net/) - Network statistics and monitoring dashboard  
