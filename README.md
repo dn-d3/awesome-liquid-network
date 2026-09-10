@@ -22,14 +22,12 @@ A curated list of Liquid Network resources, libraries, tools and applications. L
 - [Elements Asset Tutorial](https://github.com/ElementsProject/elements/tree/master/contrib/assets_tutorial) - Tutorial for creating and managing Elements assets  
 - [Liquid Introduction Workshop](https://docsend.com/view/gdxtzsz) - Workshop materials from Consensus 2019  
 - [Liquid Multisig Guide](https://github.com/Blockstream/liquid_multisig_issuance) - Documentation for implementing multisig issuance
-- [Premiere-Elements-2026](https://github.com/sloworcanight/Premiere-Elements-2026)![stars](https://img.shields.io/github/stars/sloworcanight/Premiere-Elements-2026.svg?style=social) - premiere elements download — Adobe Premiere Elements for Windows 11 & 10. Direct download, install steps and setup guide.
 
 ## Explorers
 - [Blockstream Explorer](https://blockstream.info/liquid/) - Official block explorer for Liquid Network
 - [Liquid.network](https://liquid.network/) - Mempool.space liquid network explorer
 - [electrs-liquid-umbrel](https://github.com/4rkad/electrs-liquid-umbrel)![stars](https://img.shields.io/github/stars/4rkad/electrs-liquid-umbrel.svg?style=social) - Electrum server for the Liquid Network — Umbrel community app
 - [Enciclopedia](https://github.com/lvaccaro/enciclopedia-rust) - Web-based asset information explorer for the Liquid Network
-- [anyswap](https://github.com/Blockstream/anyswap)![stars](https://img.shields.io/github/stars/Blockstream/anyswap.svg?style=social) - Repository
 
 ## Network 
 - [Liquid.net Statistics](https://liquid.net/) - Network statistics and monitoring dashboard  
@@ -93,11 +91,6 @@ A curated list of Liquid Network resources, libraries, tools and applications. L
 - [Liquid.beer Demo](https://liquid.beer/) - Demo assets and testing platform  
 - [Liquid Testnet Portal](https://liquidtestnet.com/) - Testnet development environment
 - [lt4](https://kitchen.anyone.eu.org/lt4/) - Unofficial liquid testnet based on testnet4 
-- [liquid-implosion](https://github.com/mars-llm/liquid-implosion)![stars](https://img.shields.io/github/stars/mars-llm/liquid-implosion.svg?style=social) - How a cache bug led to a 3,998.67 BTC payout during the September 2026 Liquid incident.
-- [elements-invoice](https://github.com/DylPorter/elements-invoice)![stars](https://img.shields.io/github/stars/DylPorter/elements-invoice.svg?style=social) - One invoice, three fitted renders (email · web · PDF) from a single React component tree, built with Unlayer Elements. #BuiltWithElements
-- [elements-resume-builder](https://github.com/itsiamdev/elements-resume-builder)![stars](https://img.shields.io/github/stars/itsiamdev/elements-resume-builder.svg?style=social) - Repository
-- [invoice-elements](https://github.com/aditya-2k23/invoice-elements)![stars](https://img.shields.io/github/stars/aditya-2k23/invoice-elements.svg?style=social) - Repository
-- [html5](https://github.com/fdiengdoh/html5)![stars](https://img.shields.io/github/stars/fdiengdoh/html5.svg?style=social) - An HTML page (Kitchen Sink) that has all possible HTML elements in it. You can use it for CSS practice or as a template to build. Don't mind the chemistry paragraphs.
 
 ## Wallets
 - [Marina](https://github.com/vulpemventures/marina) - Browser extension wallet
